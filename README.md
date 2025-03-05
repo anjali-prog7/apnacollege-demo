@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - Anjali Tiwari
+Author - Anjali (Apna College)
